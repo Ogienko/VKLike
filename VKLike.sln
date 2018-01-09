@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKLike", "VKLike\VKLike.csproj", "{6763C88E-EFEF-47AF-98A4-15E267DF065B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6763C88E-EFEF-47AF-98A4-15E267DF065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6763C88E-EFEF-47AF-98A4-15E267DF065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6763C88E-EFEF-47AF-98A4-15E267DF065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6763C88E-EFEF-47AF-98A4-15E267DF065B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4043F9BB-9856-4357-B0F6-7212A0AD2F7B}
+	EndGlobalSection
+EndGlobal
