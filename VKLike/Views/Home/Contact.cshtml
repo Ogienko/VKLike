@@ -11,8 +11,8 @@
     <script type="text/javascript">
         VK.Widgets.Like("vk_like", { type: "button", verb: 1, height: 30 });
 
-        VK.Observer.subscribe("widgets.like.liked", function f() {
-
+        VK.Observer.subscribe("widgets.like.liked", function() {
+            addLike(document.location.href);
         });
     </script>
 </div>
