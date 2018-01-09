@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace VKLike.Models {
+namespace VKLike.Models.Request {
 
     public class AddLikeRequest {
 

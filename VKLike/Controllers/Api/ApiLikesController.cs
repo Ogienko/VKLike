@@ -1,5 +1,6 @@
 ﻿using System.Web.Http;
 using VKLike.Models;
+using VKLike.Models.Request;
 
 namespace VKLike.Controllers.Api {
 

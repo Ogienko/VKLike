@@ -163,7 +163,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\AddLikeRequest.cs" />
+    <Compile Include="Models\Request\AddLikeRequest.cs" />
     <Compile Include="Models\Like.cs" />
     <Compile Include="Models\VKLikeContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
